@@ -1,0 +1,44 @@
+class,label,type,quantity
+0,20 km/hr,Regulation,210
+1,30 km/hr,Regulation,2220
+2,50 km/hr,Regulation,2250
+3,60 km/hr,Regulation,1410
+4,70 km/hr,Regulation,1980
+5,80 km/hr,Regulation,1860
+6,End 80 km/hr,Regulation,420
+7,100 km/hr,Regulation,1440
+8,120 km/hr,Regulation,1410
+9,No passing,Regulation,1470
+10,No passing for vehicles over 3.5t,Regulation,2010
+11,Priority,Warning,1320
+12,Priority road,Flow,2100
+13,Yield,Flow,2160
+14,Stop,Flow,780
+15,Road closed,Regulation,630
+16,Vehicles over weight prohibited,Regulation,420
+17,Do not enter,Regulation,1110
+18,General danger,Warning,1200
+19,Curve left,Warning,210
+20,Curve right,Warning,360
+21,Double curve,Warning,330
+22,Rough road,Warning,390
+23,Slippery road,Warning,510
+24,Road narrows,Warning,270
+25,Road works,Warning,1500
+26,Traffic signals ahead,Warning,600
+27,Pedestrians,Warning,240
+28,Children,Warning,540
+29,Bicycle crossing,Warning,270
+30,Beware of ice/snow,Warning,450
+31,Deer crossing,Warning,780
+32,End of all restrictions,Regulation,240
+33,Turn right ahead,Regulation,689
+34,Turn left ahead,Regulation,420
+35,Straight Ahead,Regulation,1200
+36,Mandatory Direction of Travel Right/Straight,Regulation,390
+37,Mandatory Direction of Travel Left/Straight,Regulation,210
+38,Keep right,Regulation,2070
+39,Keep left,Regulation,300
+40,Roundabout,Regulation,360
+41,End of no passing,Regulation,240
+42,End of no passing for large vehicles,Regulation,240
